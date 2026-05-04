@@ -90,6 +90,8 @@ in real-time via EventCode 4728 — zero detection delay.
 - Incident documentation and SOC workflow
 
 ---
+## Link to the Medium.com Article
+- [How I Built a Home Soc Lab](https://medium.com/@patrickalabi97/how-i-built-a-home-soc-lab-that-detects-real-attacks-using-splunk-step-by-step-81593bc56978)
 
 ## 🔗 References
 - [MITRE ATT&CK](https://attack.mitre.org)
