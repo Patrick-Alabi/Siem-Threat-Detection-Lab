@@ -37,6 +37,7 @@ Built a real-time SOC monitoring dashboard in Splunk showing:
 - Total events by log source
 
 ![SOC Dashboard](screenshots/Dashboard1.png)
+![SOC Dashboard](screenshots/Dashboard2.png)
 
 ---
 
