@@ -36,7 +36,7 @@ Built a real-time SOC monitoring dashboard in Splunk showing:
 - Privilege escalation events
 - Total events by log source
 
-![SOC Dashboard](screenshots/splunk-dashboard.png)
+![SOC Dashboard](screenshots/Dashboard1.png)
 
 ---
 
@@ -53,7 +53,7 @@ All detection rules are documented in the [`detections/`](./detections/) folder 
 ## 📄 Incident Report
 
 A full incident report covering all 3 detected attacks is available here:
-[`incident-report.md`](./incident-report.md)
+[`incident-report.md`](./Incident-report.md)
 
 ---
 
